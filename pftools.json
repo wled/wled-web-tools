@@ -8,7 +8,7 @@
     "source": "https://github.com/DedeHai/WLED-Tools",
     "desc": "Interactive paint tool: color your strips or matrix and save as GIFs or presets.",
     "ver": "1.11",
-	"wled_min": "16.0"
+    "wled_min": "16.0"
   },
   {
     "id": "videolab",
@@ -19,7 +19,7 @@
     "source": "https://github.com/DedeHai/WLED-Tools",
     "desc": "Stream videos and generate animated GIFs",
     "ver": "0.92",
-	"wled_min": "16.0"
+    "wled_min": "16.0"
   },
   {
     "id": "fontfactory",
@@ -30,7 +30,7 @@
     "source": "https://github.com/DedeHai/WLED-Tools",
     "desc": "Create your own fonts for Scrolling Text FX from ttf, otf, or bdf files",
     "ver": "1.0",
-	"wled_min": "16.0"
+    "wled_min": "16.0"
   },
   {
     "id": "pxmagic",
